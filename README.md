@@ -5,7 +5,7 @@
 
 
 
-** XylenOS will be re-written soon. The rewrite will introduce support for x86, MIPS (R4000, a PSP version will be written for experimental purposes.) and ARM **
+== XylenOS will be re-written soon. The rewrite will introduce support for x86, MIPS (R4000, a PSP version will be written for experimental purposes.) and ARM ==
 
 
 
