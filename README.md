@@ -10,13 +10,12 @@ Here is a simple Build script.
 #!/bin/bash
 set -e
 
-# XylenOS Enhanced Build Script
-# This builds the complete operating system with all improvements
+# XylenOS Build Script ts script was vibe coded 🤮
 # Author: PS2Comrade
 # Date: 2025-06-07
 
 echo "=========================================="
-echo "    XylenOS 0.3.5 Enhanced Build"
+echo "    XylenOS 0.3.5"
 echo "=========================================="
 
 # Colors for better output (if terminal supports it)
