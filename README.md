@@ -2,42 +2,6 @@
 # XylenOS
  XylenOS (from Greek "ξυλοσ"), started as UselessOS or uOS, is a hobbyist project made by a Turkish and Bangladeshi Hobbyist. <br/>
 
-
-## Screenshots
-![Screenshot of XylenOS 0.2.5](https://media.discordapp.net/attachments/1323392171428151307/1379860495313408052/image.png?ex=6841c6ba&is=6840753a&hm=5fa9ad5105eba77b947f3460107fe8fe29fe8f92b7e67f72a59d044f201306f6&=&format=webp&quality=lossless)
-
-
-## Features
-
- - 32-bit with support for 64-bit hardware
- - Simple Text-Based Userland aka Shell
- - Simple Commands like touch, time, ls, cat, cp, rm
- - Fully fledged Filesystem called ZadFS™ 😎
- - Text Editor 
- - Working Speaker Drivers
-
-## To-Do list (Roadmap of May/June)
-
- - [x] Fixed Bootloader
- - [x] Get Kernel to load into memory
- - [x] Text-based Userland aka Shell
- - [x] Live Clock
- - [x] Filesystem
- - [X] QoL Improvements 
- - [X] FS Commands
- - [X] Extended Filesystem
- - [X] Text Editor (W.I.P)
- - [ ] Filesystem inside the Image for Elf Parsing
- - [ ] Executable Loader (.elf) 
- - [ ] Text-User Interface
- - [ ] Mount Tool
- - 2nd Dev Phase
- - [ ] Simplification of Installation onto Hard Drive
- - [ ] Beeper Application
- - [ ] Working NAT
- - [ ] Brainfuck Interpreter
- - [ ] Package Manager
- 
 ## Build Guide
 Make sure you have `x86_64-elf-gcc` and `x86_64-elf-binutils` or the i686 equivalent installed.
 
